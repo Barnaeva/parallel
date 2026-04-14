@@ -1,0 +1,12 @@
+size,time_ms,operations,ops_per_sec_M
+200,6.9161,16000000,2313.44
+size,time_ms,operations,ops_per_sec_M
+400,41.7986,128000000,3062.3
+size,time_ms,operations,ops_per_sec_M
+800,415.611,1024000000,2463.84
+size,time_ms,operations,ops_per_sec_M
+1200,1298.35,3456000000,2661.84
+size,time_ms,operations,ops_per_sec_M
+1600,3209.95,8192000000,2552.06
+size,time_ms,operations,ops_per_sec_M
+2000,6141.5,16000000000,2605.23
